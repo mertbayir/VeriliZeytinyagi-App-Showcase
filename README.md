@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="images/mav.png" width="220" style="border-radius:24px;box-shadow:0 4px 16px #bbb;" />
+	<img src="images/mav.jpg" width="220" style="border-radius:24px;box-shadow:0 4px 16px #bbb;" />
 	<h1 style="font-size:2.5rem;">Verili Zeytinyağı E-Ticaret Sitesi</h1>
 	<b style="font-size:1.3rem;">App Showcase</b>
 </div>

@@ -1,11 +1,9 @@
-
-
 <div align="center">
-	<img src="images/1.png" width="120" style="border-radius:16px;box-shadow:0 2px 8px #ccc;" />
+	<img src="images/mav.png" width="120" style="border-radius:16px;box-shadow:0 2px 8px #ccc;" />
 	<h1>Verili Zeytinyağı E-Ticaret Sitesi</h1>
 	<b>App Showcase</b>
 </div>
-
+<>
 <blockquote>
 Verili Zeytinyağı E-Ticaret Sitesi, kullanıcıların kolayca üye olup giriş yapabileceği, ürünleri inceleyip sepetine ekleyerek güvenli ödeme yöntemleriyle alışveriş yapabileceği bir altyapı sunar. Yönetim paneli üzerinden kullanıcılar, siparişler ve yorumlar etkin şekilde takip edilip yönetilebilir. Sistem; güvenli giriş, hızlı sipariş onayı ve detaylı raporlama özellikleriyle hem müşterilere hem de yöneticilere pratik bir deneyim sağlar. Modern tasarımı ve kullanıcı dostu arayüzü ile her ölçekte işletmeye uygun kapsamlı bir çözüm sunmaktadır.
 </blockquote>
@@ -13,8 +11,8 @@ Verili Zeytinyağı E-Ticaret Sitesi, kullanıcıların kolayca üye olup giriş
 ---
 
 <div align="center">
+	<img src="images/1.png" width="400" />
 	<img src="images/2.png" width="400" />
-	<img src="images/3.png" width="400" />
 </div>
 
 ## 🚀 Özellikler
@@ -146,6 +144,7 @@ Verili Zeytinyağı E-Ticaret Sitesi, kullanıcıların kolayca üye olup giriş
 Kullanıcı ve yönetici paneline ait ekran görüntüleri:
 
 <div align="center">
+    <img src="images/3.png" width="350" />
 	<img src="images/4.png" width="350" />
 	<img src="images/5.png" width="350" />
 	<img src="images/6.png" width="350" />

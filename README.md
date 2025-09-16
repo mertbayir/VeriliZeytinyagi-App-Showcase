@@ -1,7 +1,7 @@
 <div align="center">
-	<img src="images/mav.png" width="120" style="border-radius:16px;box-shadow:0 2px 8px #ccc;" />
-	<h1>Verili Zeytinyağı E-Ticaret Sitesi</h1>
-	<b>App Showcase</b>
+	<img src="images/mav.png" width="220" style="border-radius:24px;box-shadow:0 4px 16px #bbb;" />
+	<h1 style="font-size:2.5rem;">Verili Zeytinyağı E-Ticaret Sitesi</h1>
+	<b style="font-size:1.3rem;">App Showcase</b>
 </div>
 <>
 <blockquote>
